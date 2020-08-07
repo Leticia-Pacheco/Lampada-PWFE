@@ -1,0 +1,19 @@
+head, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header{
+    width: 150px;
+
+    text-align: center;
+
+    color: #e30570;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    width: 80px;
+}
